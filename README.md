@@ -1,2 +1,2 @@
-### output image :
+### Output image :
 ![a](output.png)
